@@ -1,6 +1,5 @@
 # ETH Proof Beginner EVM Course Project
-This Solidity program contract provides basic functionalities to mint new tokens and burn existing ones, 
-following the specified requirements.
+This Solidity program contract provides basic functionalities to mint new tokens and burn existing ones.
 It includes the following features:
 1. Public Variables to store token details such as name, abbreviation, and total supply.
 2. A mapping to track balances of different addresses.
